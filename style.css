@@ -1,0 +1,25 @@
+.container{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    width: 750;
+    margin: 0 auto;
+    position: relative;
+    align-items: center;
+    padding: 10px;
+}
+.time{
+    color: white;
+    font-size: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.buttons{
+    margin-left: 37%;
+}
+.buttons button{
+    padding: 15px;
+    justify-content: center;
+    align-content: center;
+    border-radius: 25px;
+    
+}
